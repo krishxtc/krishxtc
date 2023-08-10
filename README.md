@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/krishhx12" target="blank"><img src="https://img.shields.io/twitter/follow/krishhx12?logo=twitter&style=for-the-badge" alt="krishhx12" /></a> </p>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **JavaScript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
